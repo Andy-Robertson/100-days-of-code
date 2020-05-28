@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 28, 2020
+
+**Today's Progress**: Continued to work through the freeCodeCamp curriculum, today I worked on algorithm Scripting in JavaScript.
+
+**Thoughts:** I'll continue with the algorithm section tomorrow, almost done!
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
 
 ### Day 3: May 27, 2020
 
