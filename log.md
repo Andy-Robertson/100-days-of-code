@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 7: May 31, 2020
+
+**Today's Progress**: Continued to work through the freeCodeCamp curriculum, finished Object Oriented Programming in JavaScript section.
+
+**Thoughts:** I'll begin the functional programming section tomorrow.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
+
 ### Day 6: May 30, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, today I worked on the Object Oriented Programming in JavaScript section.
