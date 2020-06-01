@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 8: June 1, 2020
+
+**Today's Progress**: Continued to work through the freeCodeCamp curriculum, started functional programming in JavaScript section.
+
+**Thoughts:** I'll continue with the functional programming section tomorrow.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/
 
 ### Day 7: May 31, 2020
 
