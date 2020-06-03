@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 10: June 3, 2020
+
+**Today's Progress**: Continued to work through the freeCodeCamp curriculum, started intermediate algorithm scripting in JavaScript section.
+
+**Thoughts:** I'll continue with the intermediate algorithm scripting section tomorrow.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
+
 ### Day 9: June 2, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, finished the functional programming in JavaScript section.
