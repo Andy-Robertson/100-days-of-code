@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 11: June 4, 2020
+
+**Today's Progress**: Continued to work through the freeCodeCamp curriculum, worked on the intermediate algorithm scripting JavaScript section. Started The Odin Project, Web Development 101.
+
+**Thoughts:** I'll continue to worked on the intermediate algorithm scripting section and continue The Odin Project, Web Development 101 curriculum.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
+**Link to work:** https://www.theodinproject.com
+
+
 ### Day 10: June 3, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, started intermediate algorithm scripting in JavaScript section.
