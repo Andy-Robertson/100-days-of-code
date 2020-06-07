@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: June 7, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Finished the freeCodeCamp HTML/CCS revision and started to replicate the google homepage, project 1.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow.
+
 ### Day 13: June 6, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, worked on the intermediate algorithm scripting JavaScript section and The Odin Project, Web Development 101.
