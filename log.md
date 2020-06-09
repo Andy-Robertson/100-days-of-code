@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: June 9, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Finished replicating the google homepage, project 1.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the JavaScript section.
+
+**Link to work:** https://github.com/Andy-Robertson/google-homepage
+
 ### Day 15: June 8, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Started to replicate the google homepage, project 1.
