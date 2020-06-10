@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: June 10, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Started the JavaScript section.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the JavaScript section.
+
+**Link to work:** https://www.theodinproject.com/lessons/fundamentals-part-1
+
 ### Day 16: June 9, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Finished replicating the google homepage, project 1.
