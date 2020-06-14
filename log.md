@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 21: June 14, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. The JavaScript section.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the JavaScript section.
+
+**Link to work:** https://www.theodinproject.com/lessons/fundamentals-part-2
+
 ### Day 20: June 13, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. The JavaScript section.
