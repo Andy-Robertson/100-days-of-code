@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: June 17, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. The first JavaScript project, rock, paper, scissors.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the first JavaScript project.
+
 ### Day 23: June 16, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. The first JavaScript project, rock, paper, scissors.
