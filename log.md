@@ -1,10 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 25: June 18, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Completed the first JavaScript project, rock, paper, scissors (version 1).
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, clean code section.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
+**Link to work:** https://github.com/Andy-Robertson/rock-paper-scissors
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/clean-code?ref=lnav
+
+
 ### Day 24: June 17, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. The first JavaScript project, rock, paper, scissors.
 
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the first JavaScript project.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
+**Link to work:** https://github.com/Andy-Robertson/rock-paper-scissors
 
 ### Day 23: June 16, 2020
 
@@ -13,6 +27,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the first JavaScript project.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
+**Link to work:** https://github.com/Andy-Robertson/rock-paper-scissors
 
 ### Day 22: June 15, 2020
 
