@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: June 20, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Started the JavaScript fundamentals part 4.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
 ### Day 26: June 19, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Refactored the rock, paper, scissors and read through the clean code section.
