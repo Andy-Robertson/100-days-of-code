@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 34: June 27, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. The challenges.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4, challenges ( helloWorld, repeatString, reverseString, removeFromArray, sumAll, leapYears, tempConversion) that I will start tomorrow.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
 ### Day 33: June 26, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Woring with loops.
