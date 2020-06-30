@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 37: June 30, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. The challenges.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4, challenges ( helloWorld*Complete, repeatString*Complete, reverseString*Complete, removeFromArray*Complete, sumAll*Complete, leapYears, tempConversion) that I will start tomorrow.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
+
+### Day 36: June 29, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. The challenges.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4, challenges ( helloWorld*Complete, repeatString*Complete, reverseString*Complete, removeFromArray*Complete, sumAll, leapYears, tempConversion) that I will start tomorrow.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
+
 ### Day 35: June 28, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. The challenges.
@@ -7,6 +25,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4, challenges ( helloWorld*Complete, repeatString*Complete, reverseString*Complete, removeFromArray*Complete, sumAll, leapYears, tempConversion) that I will start tomorrow.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
 
 ### Day 34: June 27, 2020
 
@@ -16,6 +35,7 @@
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
 
+
 ### Day 33: June 26, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Woring with loops.
@@ -23,6 +43,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4 which contains several challenges ( helloWorld, repeatString, reverseString, removeFromArray, sumAll, leapYears, tempConversion) that I will start tomorrow.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
 
 ### Day 32: June 25, 2020
 
@@ -32,6 +53,7 @@
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
 
+
 ### Day 31: June 24, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4.
@@ -40,6 +62,7 @@
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
 
+
 ### Day 30: June 23, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4.
@@ -47,6 +70,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
 
 ### Day 29: June 22, 2020
 
@@ -65,6 +89,7 @@
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
 
+
 ### Day 27: June 20, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Started the JavaScript fundamentals part 4.
@@ -72,6 +97,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, JavaScript fundamentals part 4.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
 
 ### Day 26: June 19, 2020
 
@@ -81,6 +107,7 @@
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4?ref=lnav
+
 
 ### Day 25: June 18, 2020
 
@@ -102,6 +129,7 @@
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
 **Link to work:** https://github.com/Andy-Robertson/rock-paper-scissors
 
+
 ### Day 23: June 16, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. The first JavaScript project, rock, paper, scissors.
@@ -110,6 +138,7 @@
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
 **Link to work:** https://github.com/Andy-Robertson/rock-paper-scissors
+
 
 ### Day 22: June 15, 2020
 
@@ -128,6 +157,7 @@
 
 **Link to work:** https://www.theodinproject.com/lessons/fundamentals-part-3
 
+
 ### Day 20: June 13, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. The JavaScript section.
@@ -145,6 +175,7 @@
 
 **Link to work:** https://www.theodinproject.com/lessons/fundamentals-part-2
 
+
 ### Day 18: June 11, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. The JavaScript section.
@@ -152,6 +183,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the JavaScript section.
 
 **Link to work:** https://www.theodinproject.com/lessons/fundamentals-part-2
+
 
 ### Day 17: June 10, 2020
 
@@ -161,6 +193,7 @@
 
 **Link to work:** https://www.theodinproject.com/lessons/fundamentals-part-1
 
+
 ### Day 16: June 9, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Finished replicating the google homepage, project 1.
@@ -168,6 +201,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, the JavaScript section.
 
 **Link to work:** https://github.com/Andy-Robertson/google-homepage
+
 
 ### Day 15: June 8, 2020
 
@@ -177,6 +211,7 @@
 
 **Link to work:** https://github.com/Andy-Robertson/google-homepage
 
+
 ### Day 14: June 7, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Finished the freeCodeCamp HTML/CCS revision and started to replicate the google homepage, project 1.
@@ -184,6 +219,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow.
 
 **Link to work:** https://github.com/Andy-Robertson/google-homepage
+
 
 ### Day 13: June 6, 2020
 
@@ -193,6 +229,7 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
 **Link to work:** https://www.theodinproject.com
+
 
 ### Day 12: June 5, 2020
 
@@ -222,6 +259,7 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
 
+
 ### Day 9: June 2, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, finished the functional programming in JavaScript section.
@@ -239,6 +277,7 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/
 
+
 ### Day 7: May 31, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, finished Object Oriented Programming in JavaScript section.
@@ -247,6 +286,7 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
 
+
 ### Day 6: May 30, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, today I worked on the Object Oriented Programming in JavaScript section.
@@ -254,6 +294,7 @@
 **Thoughts:** I'll continue with the Object Oriented section tomorrow.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
+
 
 ### Day 5: May 29, 2020
 
@@ -264,6 +305,7 @@
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
 
+
 ### Day 4: May 28, 2020
 
 **Today's Progress**: Continued to work through the freeCodeCamp curriculum, today I worked on algorithm Scripting in JavaScript.
@@ -271,6 +313,7 @@
 **Thoughts:** I'll continue with the algorithm section tomorrow, almost done!
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
+
 
 ### Day 3: May 27, 2020
 
@@ -288,7 +331,6 @@
 **Thoughts:** I'll continue with the algorithm section tomorrow.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
-
 
 
 ### Day 1: May 25, 2020
