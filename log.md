@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 38: July 1, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Finished all 7 challenges and started the DOM section, (helloWorld, repeatString, reverseString, removeFromArray, sumAll, leapYears, tempConversion).
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, DOM manipulation.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
 ### Day 37: June 30, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. The challenges.
