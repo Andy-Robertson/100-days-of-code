@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 39: July 2nd, 2020
+### Day 40: July 3, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Worked through the DOM munipulation section and implimented a basic but functional UI for my rock, paper sissors game.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, DOM manipulation, rock, paper, scissors UI.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
+### Day 39: July 2, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Worked through the DOM munipulation section with just the rock, paper sissors UI to build.
 
