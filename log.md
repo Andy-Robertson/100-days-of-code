@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 45: July 8, 2020
+
+**Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Finished the UI for my rock, paper sissors game.
+
+**Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow.
+
+**Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
 ### Day 44: July 7, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Worked on a UI for my rock, paper sissors game.
@@ -8,6 +16,7 @@
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, DOM manipulation, rock, paper, scissors UI.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
 
 ### Day 43: July 6, 2020
 
