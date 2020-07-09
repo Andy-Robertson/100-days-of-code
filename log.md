@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 46: July 9, 2020
+
+**Today's Progress**: Completed the first JavaScript project at freeCodeCamp, a palindrome checker.
+
+**Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, a roman numeral converter.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
 
 ### Day 45: July 8, 2020
 
