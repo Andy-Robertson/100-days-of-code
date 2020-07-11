@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 48: July 11, 2020
+
+**Today's Progress**: Worded on the second JavaScript project at freeCodeCamp, finished the roman numeral converter and the caesars cipher projects.
+
+**Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, telephone number validator.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
+
 ### Day 47: July 10, 2020
 
 **Today's Progress**: Worded on the second JavaScript project at freeCodeCamp, a roman numeral converter.
