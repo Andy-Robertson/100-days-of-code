@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 50: July 13, 2020
+
+**Today's Progress**: Worked on the final JavaScript project at freeCodeCamp, the cash register.
+
+**Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, cash register.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
 ### Day 49: July 12, 2020
 
-**Today's Progress**: Worded on the second JavaScript project at freeCodeCamp, finished the telephone number validator.
+**Today's Progress**: Worked on the fourth JavaScript project at freeCodeCamp, finished the telephone number validator.
 
 **Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, cash register.
 
@@ -13,7 +21,7 @@
 
 ### Day 48: July 11, 2020
 
-**Today's Progress**: Worded on the second JavaScript project at freeCodeCamp, finished the roman numeral converter and the caesars cipher projects.
+**Today's Progress**: Finished the second and third JavaScript projects at freeCodeCamp, the roman numeral converter and the caesars cipher projects.
 
 **Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, telephone number validator.
 
@@ -25,7 +33,7 @@
 
 ### Day 47: July 10, 2020
 
-**Today's Progress**: Worded on the second JavaScript project at freeCodeCamp, a roman numeral converter.
+**Today's Progress**: Worked on the second JavaScript project at freeCodeCamp, a roman numeral converter.
 
 **Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, roman numeral converter.
 
