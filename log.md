@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 51: July 14, 2020
+
+**Today's Progress**: Worked on the final JavaScript project at freeCodeCamp, the cash register.
+
+**Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, cash register.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
 ### Day 50: July 13, 2020
 
 **Today's Progress**: Worked on the final JavaScript project at freeCodeCamp, the cash register.
