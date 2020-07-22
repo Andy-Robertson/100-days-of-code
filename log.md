@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 58: July 21, 2020
+
+Today's Progress: Worked on JavaScript fundamentals part 5, The Odin Project.
+
+Thoughts: I'll continue to work through the remaining JavaScript tutorials and challenges.
+
+Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+
 ### Day 57: July 20, 2020
+
 Today's Progress: Worked on the Etch-a-sketch project for The Odin Project.
 
 Thoughts: I'll continue to worked on the Etch-a-sketch tomorrow, mainly tidy up and CSS.
 
 Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
-
 
 ### Day 56: July 19, 2020
 
