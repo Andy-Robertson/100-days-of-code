@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 59: July 22, 2020
+
+Today's Progress: Worked on JavaScript fundamentals part 5, The Odin Project.
+
+Thoughts: I'll continue to work through the remaining JavaScript tutorials and challenges.
+
+Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
 
 ### Day 58: July 21, 2020
 
