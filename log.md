@@ -1,53 +1,71 @@
 # 100 Days Of Code - Log
 
+
+
+**Day 63: July 25, 2020**
+
+**Today's Progress**: Finished JavaScript fundamentals part 5, The Odin Project.
+
+**Thoughts**: I'll begin the final project in Web Fundementals 101 tomorrow, a calculator.
+
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/calculator
+
+
 ### Day 62: July 24, 2020
 
-Today's Progress: Worked on JavaScript fundamentals part 5, The Odin Project.
+**Today's Progress**: Worked on JavaScript fundamentals part 5, The Odin Project.
 
-Thoughts: I'll continue to work through the remaining JavaScript tutorials and challenges.
+**Thoughts**: I'll continue to work through the remaining JavaScript tutorials and challenges.
 
-Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
 
 
 ### Day 61: July 24, 2020
 
-Today's Progress: Worked on JavaScript fundamentals part 5, The Odin Project.
+**Today's Progress**: Worked on JavaScript fundamentals part 5, The Odin Project.
 
-Thoughts: I'll continue to work through the remaining JavaScript tutorials and challenges.
+**Thoughts**: I'll continue to work through the remaining JavaScript tutorials and challenges.
 
-Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+
 
 ### Day 60: July 23, 2020
 
-Today's Progress: Worked on JavaScript fundamentals part 5, The Odin Project.
+**Today's Progress**: Worked on JavaScript fundamentals part 5, The Odin Project.
 
-Thoughts: I'll continue to work through the remaining JavaScript tutorials and challenges.
+**Thoughts**: I'll continue to work through the remaining JavaScript tutorials and challenges.
 
-Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+
 
 ### Day 59: July 22, 2020
 
-Today's Progress: Worked on JavaScript fundamentals part 5, The Odin Project.
+**Today's Progress**: Worked on JavaScript fundamentals part 5, The Odin Project.
 
-Thoughts: I'll continue to work through the remaining JavaScript tutorials and challenges.
+**Thoughts**: I'll continue to work through the remaining JavaScript tutorials and challenges.
 
-Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+
 
 ### Day 58: July 21, 2020
 
-Today's Progress: Worked on JavaScript fundamentals part 5, The Odin Project.
+**Today's Progress**: Worked on JavaScript fundamentals part 5, The Odin Project.
 
-Thoughts: I'll continue to work through the remaining JavaScript tutorials and challenges.
+**Thoughts**: I'll continue to work through the remaining JavaScript tutorials and challenges.
 
-Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5
+
 
 ### Day 57: July 20, 2020
 
-Today's Progress: Worked on the Etch-a-sketch project for The Odin Project.
+**Today's Progress**: Worked on the Etch-a-sketch project for The Odin Project.
 
-Thoughts: I'll continue to worked on the Etch-a-sketch tomorrow, mainly tidy up and CSS.
+**Thoughts**: I'll continue to worked on the Etch-a-sketch tomorrow, mainly tidy up and CSS.
 
-Link to work: https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
+
 
 ### Day 56: July 19, 2020
 
@@ -56,6 +74,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on the Etch-a-sketch tomorrow.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
+
 
 ### Day 55: July 18, 2020
 
@@ -74,6 +93,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
 
+
 ### Day 53: July 16, 2020
 
 **Today's Progress**: Worked on the Etch-a-sketch project for The Odin Project.
@@ -81,6 +101,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on the Etch-a-sketch tomorrow.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
+
 
 ### Day 52: July 15, 2020
 
@@ -90,6 +111,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
 
+
 ### Day 51: July 14, 2020
 
 **Today's Progress**: Worked on the final JavaScript project at freeCodeCamp, the cash register.
@@ -98,6 +120,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 
+
 ### Day 50: July 13, 2020
 
 **Today's Progress**: Worked on the final JavaScript project at freeCodeCamp, the cash register.
@@ -105,6 +128,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, cash register.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
 
 ### Day 49: July 12, 2020
 
@@ -129,6 +153,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
 
+
 ### Day 47: July 10, 2020
 
 **Today's Progress**: Worked on the second JavaScript project at freeCodeCamp, a roman numeral converter.
@@ -136,6 +161,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on the freeCodeCamp Javascript projects tomorrow, roman numeral converter.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
+
 
 ### Day 46: July 9, 2020
 
@@ -147,6 +173,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
 
+
 ### Day 45: July 8, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Finished the UI for my rock, paper sissors game.
@@ -154,6 +181,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
 
 ### Day 44: July 7, 2020
 
@@ -172,6 +200,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
 
+
 ### Day 42: July 5, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Worked on a UI for my rock, paper sissors game.
@@ -179,6 +208,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, DOM manipulation, rock, paper, scissors UI.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
 
 ### Day 41: July 4, 2020
 
@@ -188,6 +218,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
 
+
 ### Day 40: July 3, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Worked through the DOM munipulation section and implimented a basic but functional UI for my rock, paper sissors game.
@@ -195,6 +226,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, DOM manipulation, rock, paper, scissors UI.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
 
 ### Day 39: July 2, 2020
 
@@ -204,6 +236,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
 
+
 ### Day 38: July 1, 2020
 
 **Today's Progress**: Continued to work on The Odin Project, Web Development 101. Worked on JavaScript fundamentals part 4. Finished all 7 challenges and started the DOM section, (helloWorld, repeatString, reverseString, removeFromArray, sumAll, leapYears, tempConversion).
@@ -211,6 +244,7 @@ Link to work: https://www.theodinproject.com/courses/web-development-101/lessons
 **Thoughts:** I'll continue to worked on The Odin Project, Web Development 101 curriculum tomorrow, DOM manipulation.
 
 **Link to work:** https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+
 
 ### Day 37: June 30, 2020
 
