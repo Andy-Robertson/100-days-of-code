@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+**Day 64: July 26, 2020**
+
+**Today's Progress**: Started the calculator project for The Odin Project.
+
+**Thoughts**: I'll continue working on the calculator tomorrow.
+
+**Link to work**: https://andy-robertson.github.io/calculator/
+
 
 **Day 63: July 25, 2020**
 
