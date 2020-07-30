@@ -1,7 +1,25 @@
 # 100 Days Of Code - Log
 
 
-**Day 65: July 27, 2020**
+### Day 67: July 30, 2020
+
+**Today's Progress**: Worked on my calculator project for The Odin Project.
+
+**Thoughts**: I'll continue working on the calculator tomorrow.
+
+**Link to work**: https://andy-robertson.github.io/calculator/
+
+
+### Day 66: July 29, 2020
+
+**Today's Progress**: Worked on my calculator project for The Odin Project.
+
+**Thoughts**: I'll continue working on the calculator tomorrow.
+
+**Link to work**: https://andy-robertson.github.io/calculator/
+
+
+### Day 65: July 28, 2020
 
 **Today's Progress**: Worked on my calculator project for The Odin Project.
 
@@ -12,7 +30,7 @@
 
 
 
-**Day 64: July 26, 2020**
+### Day 64: July 27, 2020
 
 **Today's Progress**: Started the calculator project for The Odin Project.
 
@@ -21,7 +39,7 @@
 **Link to work**: https://andy-robertson.github.io/calculator/
 
 
-**Day 63: July 25, 2020**
+### Day 63: July 26, 2020
 
 **Today's Progress**: Finished JavaScript fundamentals part 5, The Odin Project.
 
@@ -32,7 +50,7 @@
 **Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/calculator
 
 
-### Day 62: July 24, 2020
+### Day 62: July 25, 2020
 
 **Today's Progress**: Worked on JavaScript fundamentals part 5, The Odin Project.
 
