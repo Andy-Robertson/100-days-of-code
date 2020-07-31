@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 68: July 31, 2020
+
+**Today's Progress**: Worked on my calculator project for The Odin Project and started the frameworks (react) section on freeCodeCamp.
+
+**Thoughts**: I'll continue working on the calculator and frameworks section tomorrow.
+
+**Link to work**: https://andy-robertson.github.io/calculator/
+**Link to work**: https://www.freecodecamp.org/learn/front-end-libraries/
+
+
 ### Day 67: July 30, 2020
 
 **Today's Progress**: Worked on my calculator project for The Odin Project.
