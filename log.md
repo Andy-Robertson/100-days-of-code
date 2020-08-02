@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 70: August 2, 2020
+
+**Today's Progress**: Worked on back-end tutorials on The Odin Project and completed the SASS section on freeCodeCamp. Completed a tidy up of my repositories on GitHub including small code reworks on several projects.
+
+**Thoughts**: I'll continue working on the frameworks section tomorrow.
+
+**Link to work**: https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-the-back-end
+
+**Link to work**: https://www.freecodecamp.org/learn/front-end-libraries/sass/
+
+
 ### Day 69: August 1, 2020
 
 **Today's Progress**: Worked on my calculator project for The Odin Project and the frameworks (react) section on freeCodeCamp.
