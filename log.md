@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 71: August 3, 2020
+
+**Today's Progress:** Decided to begin work on the The Odin Project JavaScript course today which starts with object manipulation before moving onto topics including API's and frameworks.
+
+**Thoughts:** I'll continue working on the main JavaScript course tomorrow.
+
+**Link to work:** https://www.theodinproject.com/lessons/objects-and-object-constructors
+
+
 ### Day 70: August 2, 2020
 
 **Today's Progress**: Worked on back-end tutorials on The Odin Project and completed the SASS section on freeCodeCamp. Completed a tidy up of my repositories on GitHub including small code reworks on several projects.
