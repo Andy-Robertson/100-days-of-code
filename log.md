@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 72: August 4, 2020
+
+**Today's Progress:** Continued to work on the The Odin Project JavaScript course today, object prototypes, and prepared github for the library project.
+
+**Thoughts:** I'll continue working on the main JavaScript course tomorrow and begin the library project.
+
+**Link to work:** https://www.theodinproject.com/lessons/objects-and-object-constructors
+**Link to work:** https://www.theodinproject.com/courses/javascript/lessons/library?ref=lnav
+
 
 ### Day 71: August 3, 2020
 
