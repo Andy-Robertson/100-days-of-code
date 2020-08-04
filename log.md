@@ -7,6 +7,7 @@
 **Thoughts:** I'll continue working on the main JavaScript course tomorrow and begin the library project.
 
 **Link to work:** https://www.theodinproject.com/lessons/objects-and-object-constructors
+
 **Link to work:** https://www.theodinproject.com/courses/javascript/lessons/library?ref=lnav
 
 
