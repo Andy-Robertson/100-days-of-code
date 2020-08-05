@@ -10,6 +10,15 @@
 **Link to work:** https://www.theodinproject.com/courses/javascript/lessons/library?ref=lnav
 
 
+### Day 72: August 4, 2020
+
+**Today's Progress:** Worked on the The Odin Project JavaScript course today, objects and prototypes.
+
+**Thoughts:** I'll begin work on the library project.
+
+**Link to work:** https://www.theodinproject.com/lessons/objects-and-object-constructors
+
+
 ### Day 71: August 3, 2020
 
 **Today's Progress:** Decided to begin work on the The Odin Project JavaScript course today which starts with object manipulation before moving onto topics including API's and frameworks.
