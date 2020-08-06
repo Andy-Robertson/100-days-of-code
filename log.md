@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 74: August 6, 2020
+
+**Today's Progress:** Worked on the The Odin Project JavaScript course today, the library project.
+
+**Thoughts:** I'll continue working on the library project.
+
+**Link to work:** https://www.theodinproject.com/courses/javascript/lessons/library?ref=lnav
+
+
 ### Day 73: August 5, 2020
 
 **Today's Progress:** Worked on the The Odin Project JavaScript course today and started the library project.
