@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 75: August 7, 2020
+
+**Today's Progress:** Worked on the The Odin Project JavaScript course today.
+
+**Thoughts:** I'll continue working on the library project.
+
+**Link to work:** https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors
+
 
 ### Day 74: August 6, 2020
 
