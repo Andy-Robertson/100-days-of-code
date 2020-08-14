@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 79: August 14, 2020
+
+**Today's Progress:** Worked on freeCodeCamp's JavaScript curriculum today.
+
+**Thoughts:** I'll continue working on freeCodeCamp tomorrow.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+
+
 ### Day 78: August 13, 2020
 
 **Today's Progress:** Worked on both The Odin Project JavaScript curriculum today, and freeCodeCamp's JavaScript curriculum.
