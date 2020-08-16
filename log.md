@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 81: August 16, 2020
+
+**Today's Progress:** Started an HTML course at Sololearn.
+
+**Thoughts:** I'll continue working on the Sololearn course tomorrow.
+
+**Link to work:** https://www.sololearn.com/
+
+
 ### Day 80: August 15, 2020
 
 **Today's Progress:** Worked on freeCodeCamp's JavaScript curriculum today.
