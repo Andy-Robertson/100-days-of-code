@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 83: August 18, 2020
+
+**Today's Progress:** Completed the HTML course at Sololearn.
+
+**Thoughts:** I'll start the CSS course tomorrow at Sololearn.
+
+**Link to work:** https://www.sololearn.com/
+
+
 ### Day 82: August 17, 2020
 
 **Today's Progress:** Continued with the HTML course at Sololearn.
