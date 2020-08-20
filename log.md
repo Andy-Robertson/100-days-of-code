@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 85: August 20, 2020
+
+**Today's Progress:** Worked on the JavaScript course at Sololearn.
+
+**Thoughts:** I'll continue with the JavaScript course tomorrow at Sololearn.
+
+**Link to work:** https://www.sololearn.com/
+
+
 ### Day 84: August 19, 2020
 
 **Today's Progress:** Started the CSS course at Sololearn.
