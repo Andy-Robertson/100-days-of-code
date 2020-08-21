@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 86: August 21, 2020
+
+**Today's Progress:** Completed the the JavaScript course at Sololearn and began work on a landing page project which included HTML, CCS and JavaScript.
+
+**Thoughts:** I'll continue to work on the landing page tomorrow.
+
+
+
 ### Day 85: August 20, 2020
 
 **Today's Progress:** Worked on the JavaScript course at Sololearn.
