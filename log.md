@@ -1,9 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 88: August 23, 2020
+
+**Today's Progress:** Finished the landing page project which included HTML, CCS and JavaScript.
+
+**Thoughts:** I'll research frameworks tomorrow.
+
+
 ### Day 87: August 22, 2020
 
-**Today's Progress:** Worked on a landing page project which includeds HTML, CCS and JavaScript.
+**Today's Progress:** Worked on a landing page project which includes HTML, CCS and JavaScript.
 
 **Thoughts:** I'll continue to work on the landing page tomorrow.
 
