@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 89: August 24, 2020
+
+**Today's Progress:** Put some finishing touches on the landing page project and uploaded it to GitHub. Did some work on the JavaScript course on freeCodeCamp.
+
+**Thoughts:** I'll continue to work on JavaScript tomorrow.
+
 
 ### Day 88: August 23, 2020
 
