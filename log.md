@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 93: August 28, 2020
+
+**Today's Progress:** Worked on the JavaScript course on freeCodeCamp.
+
+**Thoughts:** I'll continue to work on JavaScript tomorrow.
+
+
 ### Day 92: August 27, 2020
 
 **Today's Progress:** Worked on the JavaScript course on freeCodeCamp.
